@@ -1,2 +1,8 @@
 # athena.xd.fb
-everything is going...
+class Athena:
+    def init(self):
+        self.network = "TON"
+        self.focus = ["Ton Society", "Onton", "GitHub"]
+    
+    def hunt(self):
+        return "Airdrops tracked. Strategy in motion."
