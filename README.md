@@ -41,7 +41,6 @@ contract AthenaBadge {
     }
 }
 
-
 import { compile } from "@tact-lang/compiler";
 import path from "path";
 import { fileURLToPath } from "url";
